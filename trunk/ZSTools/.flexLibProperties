@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.zs.tools.Debug"/>
+    <classEntry path="com.zs.tools.WheelFilter"/>
+    <classEntry path="com.zs.tools.RightClick"/>
+    <classEntry path="com.zs.tools.AppTools"/>
+    <classEntry path="com.zs.tools.FlashVars"/>
+    <classEntry path="com.zs.tools.Stats"/>
+    <classEntry path="com.zs.tools.LibLoader"/>
+    <classEntry path="com.zs.tools.PointFixed"/>
+    <classEntry path="com.zs.ui.alert"/>
+    <classEntry path="com.zs.tools.Clone"/>
+    <classEntry path="com.zs.tools.GetFunctionName"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
